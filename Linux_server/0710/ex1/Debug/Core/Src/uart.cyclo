@@ -1,0 +1,6 @@
+../Core/Src/uart.c:23:6:initUart	1
+../Core/Src/uart.c:28:6:HAL_UART_RxCpltCallback	1
+../Core/Src/uart.c:34:10:getRxBuffer	2
+../Core/Src/uart.c:43:6:getString	2
+../Core/Src/uart.c:59:6:putSerial	1
+../Core/Src/uart.c:68:6:putSerial2	1
